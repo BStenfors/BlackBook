@@ -1,0 +1,13 @@
+{
+  "name":"BlackBook",
+  "version":"1.0.0",
+  "description":"The phone book for single men",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/BStenfors/BlackBook.git"
+  },
+  "dependencies":{
+    "bower":"latest",
+    "gulp":"latest"
+  }
+}
