@@ -6,11 +6,9 @@
     "angular-route":"latest",
     "angular-touch":"latest",
     "mongoose":"latest",
-    "mongoose-connect":"latest",
     "express":"latest",
     "underscore":"latest",
     "passport":"latest",
-    "passport-local":"latest",
     "bootstrap":"latest"
   }
 }
